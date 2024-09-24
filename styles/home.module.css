@@ -1,0 +1,40 @@
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .bgImage {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  .heroContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .cta {
+    background-color: #00A4EF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .overview, .events, .ambassadors {
+    padding: 40px 20px;
+  }
+  
+  .events, .ambassadors {
+    background-color: #F5F5F5;
+  }
+  
+  .h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,33 @@
+.contact {
+    padding: 4rem 2rem;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form input, .form textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form button {
+    padding: 1rem 2rem;
+    background-color: #0099FF;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+  }
+  
+  .form button:hover {
+    background-color: #007ACC;
+  }
+  
